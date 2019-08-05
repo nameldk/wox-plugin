@@ -1,0 +1,12 @@
+{
+    "ID":"17184f9a-ae5a-4bca-873d-3e30b201fa1f",
+    "ActionKeyword":"itoggle",
+    "Name":"Toggle \\ and /",
+    "Description":"Toggle \\ and /",
+    "Author":"nameldk",
+    "Version":"1.0",
+    "Language":"python",
+    "Website":"https://github.com/Wox-launche/Wox",
+    "IcoPath":"Images\\app.png",
+    "ExecuteFileName":"main.py"
+}
